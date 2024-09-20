@@ -19028,7 +19028,7 @@ function O2({className: t}) {
         icon: L2,
         url: "/"
     }]
-      , n = ["contract here"]
+      , n = ["0x9dD3cc681F622866770F8Bb492555B26D82307D4"]
       , [i,r] = q.useState(!1)
       , s = () => {
         navigator.clipboard.writeText(n),
